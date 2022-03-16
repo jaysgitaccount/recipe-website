@@ -1,0 +1,65 @@
+div .outer {
+    display: flex;
+}
+
+div .container {
+    margin: auto;
+    max-width: 960px;
+    color:#2a2c2c;
+}
+
+body {
+    background-color: #effdfc;
+}
+
+.header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline overline;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.subheader {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: overline;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.subheader.recipe {
+    font-size: 1.8rem;
+    text-decoration: underline;
+    text-align: left;
+}
+
+h2.subheader.recipe {
+    font-size: 1.8rem;
+}
+
+h3.subheader.recipe {
+    font-size: 1.4rem;
+}
+
+ol.recipe, ul.recipe {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.1rem;
+}
+
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #078569;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+}
+
+.credit {
+    font-size: 0.7rem;
+}
+
+.back-to-home {
+    font-size: 0.9rem;
+}
